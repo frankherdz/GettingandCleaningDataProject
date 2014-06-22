@@ -2,11 +2,11 @@
 
 The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis.
 The following files are included in this project:
- 1) A tidy data (tidydataset1.csv) set derived from data and measures from this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
- 2) A tidy data (tidydataset2.csv) set based on the average from tidy data set created on step #1.
- 3) REAME.MD file.
- 4) CODEBOOKk.MD file.
- 5) run_analysis.R
+* A tidy data (tidydataset1.csv) set derived from data and measures from this link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
+* A tidy data (tidydataset2.csv) set based on the average from tidy data set created on step #1.
+* REAME.MD file.
+* CODEBOOKk.MD file.
+* run_analysis.R
 
 The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. 
 A full description is available at the site where the data was obtained: 
